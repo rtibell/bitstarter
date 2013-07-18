@@ -40,7 +40,7 @@ var assertFileExists = function(infile) {
 
 var assertURLValid = function(url) {
     var inurl = url.toString();
-    var matc = inurl.search(/https?:\/\/[a-zA-Z0-9]+\..+/);
+    var matc = inurl.search(/https?:\/\/[a-zA-Z0-9].+\..+/);
     if (matc < 0) {
 	console.log("Invalid url, %s", inurl);
 	process.exit(1);

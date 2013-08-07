@@ -13,7 +13,7 @@ http://rtibell-bitstartes-mooc.herokuapp.com/ | git@heroku.com:rtibell-bitstarte
 
 
 ec2-54-215-28-31.us-west-1.compute.amazonaws.com
-
+http://ec2-54-215-28-31.us-west-1.compute.amazonaws.com:8080
 
 
 
@@ -33,3 +33,7 @@ ID: UA-43039488-1
 
 </script>
 
+
+BitCoins
+========
+<a class="coinbase-button" data-code="0def204f6fb49ac326d82fdd844f8746" data-button-style="custom_small" href="https://coinbase.com/checkouts/0def204f6fb49ac326d82fdd844f8746">Pay With Bitcoin</a><script src="https://coinbase.com/assets/button.js" type="text/javascript"></script>
